@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImKVR/CICD.git/static/css/main.334c1bb3.css",
+    "main.js": "/ImKVR/CICD.git/static/js/main.72a97328.js",
+    "static/js/787.8eb42f38.chunk.js": "/ImKVR/CICD.git/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/ImKVR/CICD.git/index.html",
+    "main.334c1bb3.css.map": "/ImKVR/CICD.git/static/css/main.334c1bb3.css.map",
+    "main.72a97328.js.map": "/ImKVR/CICD.git/static/js/main.72a97328.js.map",
+    "787.8eb42f38.chunk.js.map": "/ImKVR/CICD.git/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.72a97328.js"
+  ]
+}
